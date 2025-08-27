@@ -8,10 +8,11 @@ requests==2.31.0
 
 gunicorn==23.0.0
 
-crewai==0.159.0
+crewai==0.165.1
 
 crewai_tools==0.62.3
 
 
-openai==1.35.13
+openai==1.37,<2
+
 
