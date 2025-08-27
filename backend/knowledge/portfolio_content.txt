@@ -1,0 +1,61 @@
+PORTFOLIO WEBSITE OVERVIEW:
+My portfolio at galmauday.vercel.app showcases my journey as an Information Technology student at Anurag University (2022-2026) with a current CGPA of 8.05/10. I am an enthusiastic and adaptable technology professional with hands-on experience in AI/ML, data analysis, and web development, passionate about combining data-driven insights with innovative design to create impactful digital solutions.
+
+PERSONAL DETAILS:
+Name: Galma Uday Kiran Reddy
+Location: Hyderabad, Telangana, India
+Email: galmauday@gmail.com
+Phone: +91 8885496463
+University: Anurag University (B.Tech Information Technology)
+Portfolio: galmauday.vercel.app
+
+DESIGN THEME:
+Lightning and electrical theme with orange and black color scheme[84]
+Dynamic animations and responsive design
+Modern, professional layout optimized for recruiters and employers
+Mobile-responsive with interactive elements
+
+KEY SECTIONS:
+1. About Me - Background as IT student from Anurag University, passionate about AI/ML and web development
+2. Technical Skills - Comprehensive programming languages, frameworks, and tools
+3. Projects - Featured university projects with live demos and detailed case studies
+4. Education - Academic background with CGPA and achievements
+5. Certifications - Multiple industry certifications and training programs
+6. Contact - Professional contact information and social media links
+
+TECHNICAL EXPERTISE:
+Programming Languages: C, Java, Python (NumPy, Pandas, Seaborn, Matplotlib, Plotly)
+Web Development: HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, Angular, ReactJS, NextJS
+Databases: MySQL, MongoDB
+Frameworks: Django, Spring Boot, Flask, Streamlit
+UI/UX Tools: Figma, Canva
+Machine Learning: TensorFlow, Scikit-learn, XGBoost
+Data Analytics: PowerBI, MS Excel, Tableau, SQL
+
+CERTIFICATIONS & ACHIEVEMENTS:
+- Java Spring Boot Certification
+- Python Essentials 1 and 2 Certifications
+- Java 11 Essentials Certification
+- Java NPTEL Certification
+- MongoDB Certification
+- MATLAB Certification
+
+CURRENT FOCUS:
+- Building intelligent, user-centric applications leveraging AI/ML models
+- Developing web applications that solve real-world problems
+- Enhancing skills in full-stack development and data analytics
+- Seeking internship and full-time opportunities in technology
+- Passionate about sustainable technology solutions
+
+PERSONAL INTERESTS:
+- Swimming and Table Tennis
+- UI/UX Design and Data-Driven Projects
+- Cooking and exploring new technologies
+- Languages: Proficient in English, Telugu, and Hindi
+
+PORTFOLIO HIGHLIGHTS:
+- Lightning-themed animations with orange and black color scheme
+- Responsive design optimized for all devices
+- Interactive project showcases with live demos
+- Professional presentation suitable for recruiters
+- Integration of AI/ML projects and web development skills

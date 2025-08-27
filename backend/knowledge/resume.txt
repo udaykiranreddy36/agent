@@ -1,0 +1,66 @@
+GALMA UDAY KIRAN REDDY
+Hyderabad, Telangana, India
+Phone: +91 8885496463
+Email: galmauday@gmail.com
+LinkedIn: [LinkedIn Profile]
+Portfolio: galmauday.vercel.app
+
+PROFESSIONAL SUMMARY:
+Enthusiastic and adaptable technology professional with hands-on experience in AI/ML, data analysis, and web development. Skilled in building intelligent, user-centric applications and leveraging machine learning models to solve real-world problems. Passionate about combining data-driven insights with innovative design to create impactful digital solutions.
+
+EDUCATION:
+Anurag University (2022-2026)
+B.Tech in Information Technology
+Cumulative GPA: 8.05/10
+
+Sri Chaitanya Junior Kalashala
+Intermediate (12th Grade) - MPC Course
+Marks: 763/1000
+
+SPR School of Excellence
+SSC (Class 10)
+GPA: 8.5/10
+
+UNIVERSITY PROJECTS:
+
+NOMAD COMPASS – ALL-IN-ONE TOURISM PLATFORM (February 2025)
+- Designed a unified travel platform to help tourists plan, book, and explore with features like local guide registration, customizable itineraries, couchsurfing, and virtual tours
+- Integrated ML-based trip planner, cultural insights, and sustainability tools to enhance user experience and promote responsible tourism
+
+EXPLAINABLE AI MEDICAL DIAGNOSIS FOR DIABETES (January 2025)
+- Built an interactive web app that predicts diabetes risk from key health metrics (glucose, blood pressure, BMI, skin thickness, insulin) with real-time sliders and model explainability
+- Integrated an LLM-powered chatbot to interpret results, answer health-metric questions, and guide users through data entry and next steps
+
+SUSTAINABLE FERTILIZER USAGE OPTIMIZER (November 2024)
+- Developed an ML-powered web app to recommend optimal fertilizers using crop, soil, and weather data
+- Integrated speech-to-text translation, city-based weather API, and a Django-based prediction system
+
+TECHNICAL SKILLS:
+Programming Languages: C, Java, Python (NumPy, Pandas, Seaborn, Matplotlib, Plotly)
+Web Development: HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, Angular, ReactJS, NextJS
+Databases: MySQL, MongoDB
+Frameworks: Django, Spring Boot, Flask, Streamlit
+UI/UX Tools: Figma, Canva
+Machine Learning: TensorFlow, Scikit-learn, XGBoost
+Data Analytics: PowerBI, MS Excel, Tableau, SQL
+
+CERTIFICATIONS & TRAINING:
+- Java Spring Boot Certification
+- Python Essentials 1 and 2
+- Java 11 Essentials Certification
+- Java NPTEL Certification
+- MongoDB Certification
+- MATLAB Certification
+
+PERSONAL INTERESTS:
+- Swimming
+- Table Tennis
+- UI/UX Design
+- Data-Driven Projects
+- Cooking
+
+LANGUAGES:
+Proficient in English, Telugu, French, and Hindi
+
+CAREER OBJECTIVE:
+Seeking opportunities to apply my technical skills in AI/ML, web development, and data analytics to create innovative solutions that solve real-world problems. Interested in roles that combine technology with social impact, particularly in healthcare, sustainability, and user experience design.
