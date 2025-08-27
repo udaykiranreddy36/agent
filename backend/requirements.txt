@@ -8,12 +8,13 @@ requests==2.32.3
 
 gunicorn==23.0.0
 
-crewai==0.165.1
+crewai==0.159.0
 
-crewai_tools==0.62.3
+crewai_tools==0.60.0
 
 
 openai==1.70.0
+
 
 
 
